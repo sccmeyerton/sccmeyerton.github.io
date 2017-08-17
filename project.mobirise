@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 69,
     "versionPublish": "4.1.6",
@@ -2703,7 +2703,7 @@
         }
       ]
     },
-    "page4.html": {
+    "contact.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Contact us",
