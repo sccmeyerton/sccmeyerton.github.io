@@ -100,13 +100,6 @@ body {
   justify-content: center;
   word-break: break-word;
 }
-.navbar .btn {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
-}
-.navbar .btn > .mbr-iconfont {
-  font-size: 1.6rem;
-}
 .btn-sm {
   font-weight: 500;
   letter-spacing: 1px;
@@ -3187,30 +3180,30 @@ pre {
     border-left: .30em solid transparent;
   }
 }
-.cid-qsxuzrMptl {
+.cid-qsyh4tr71s {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-qsxuzrMptl .title {
+.cid-qsyh4tr71s .title {
   margin-bottom: 2rem;
 }
-.cid-qsxuzrMptl .mbr-section-subtitle {
+.cid-qsyh4tr71s .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qsxuzrMptl a:not([href]):not([tabindex]) {
+.cid-qsyh4tr71s a:not([href]):not([tabindex]) {
   color: #fff;
   border-radius: 3px;
 }
-.cid-qsxuzrMptl a.btn-white:not([href]):not([tabindex]) {
+.cid-qsyh4tr71s a.btn-white:not([href]):not([tabindex]) {
   color: #333;
 }
-.cid-qsxuzrMptl .multi-horizontal {
+.cid-qsyh4tr71s .multi-horizontal {
   flex-grow: 1;
   -webkit-flex-grow: 1;
   max-width: 100%;
 }
-.cid-qsxuzrMptl .input-group-btn {
+.cid-qsyh4tr71s .input-group-btn {
   display: block;
   text-align: center;
 }
